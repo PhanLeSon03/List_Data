@@ -1,0 +1,34 @@
+Song	Performer	ACM Song ID (STAG)	Song URL (STAG)
+Candy Shop (Explicit)	50 Cent featuring Olivia	481f9247-3df8-48ef-b0fe-407754701fe9	https://staging.ms.amanotes.net/song/481f9247-3df8-48ef-b0fe-407754701fe9
+Take on Me	a-ha	6b4a515f-ef57-4377-821f-04511aabe81d	https://staging.ms.amanotes.net/song/6b4a515f-ef57-4377-821f-04511aabe81d
+I Want It That Way	Backstreet Boys	81e2d744-8e01-4073-8f7c-7f83ee1262f3	https://staging.ms.amanotes.net/song/81e2d744-8e01-4073-8f7c-7f83ee1262f3
+Stand By Me	Ben E King	f9cee2f5-1f17-4ba8-8f50-c2858d534ea3	https://staging.ms.amanotes.net/song/f9cee2f5-1f17-4ba8-8f50-c2858d534ea3
+If I Were a Boy	Beyonce	83b0fff6-b5a4-4160-b596-0a289f7e2c2f	https://staging.ms.amanotes.net/song/83b0fff6-b5a4-4160-b596-0a289f7e2c2f
+Uptown Girl	Billy Joel	132a0353-c171-431d-84f8-58bb6d03d371	https://staging.ms.amanotes.net/song/132a0353-c171-431d-84f8-58bb6d03d371
+Call Me	Blondie	71ac8f19-7be3-4bc0-8669-c7030975bbc4	https://staging.ms.amanotes.net/song/71ac8f19-7be3-4bc0-8669-c7030975bbc4
+Daddy Cool	Boney M	984f3c8c-5925-43ff-ae92-625c85c1b486	https://staging.ms.amanotes.net/song/984f3c8c-5925-43ff-ae92-625c85c1b486
+...Baby One More Time	Britney Spears	a7c33bd8-32a8-40b9-ad01-9a328b3b1bd2	https://staging.ms.amanotes.net/song/a7c33bd8-32a8-40b9-ad01-9a328b3b1bd2
+Bad Romance (Explicit)	Lady Ga Ga	2c43fd56-f36a-4864-af97-29ae440093eb	https://staging.ms.amanotes.net/song/2c43fd56-f36a-4864-af97-29ae440093eb
+Toxic	Britney Spears	e2b9cfc4-04a9-47af-9309-602fa1ca707e	https://staging.ms.amanotes.net/song/e2b9cfc4-04a9-47af-9309-602fa1ca707e
+The Scientist	Coldplay	264f22b1-61e9-4274-93bc-9c282d9ee61b	https://staging.ms.amanotes.net/song/264f22b1-61e9-4274-93bc-9c282d9ee61b
+Viva La Vida	Coldplay	df40f361-5b2b-4daa-a83b-7cdfbf676bbc	https://staging.ms.amanotes.net/song/df40f361-5b2b-4daa-a83b-7cdfbf676bbc
+Endless Love	Diana Ross and Lionel Richie	6db3eb16-d342-4092-a796-985a2e5a9138	https://staging.ms.amanotes.net/song/6db3eb16-d342-4092-a796-985a2e5a9138
+Rocket Man (I Think It's Going To Be A Long, Long Time)	Elton John	ba37341a-6238-453f-b2ff-4eb137a1d94f	https://staging.ms.amanotes.net/song/ba37341a-6238-453f-b2ff-4eb137a1d94f
+Tiny Dancer	Elton John	6addc908-22ff-4be0-b7ec-9081e1c9bf80	https://staging.ms.amanotes.net/song/6addc908-22ff-4be0-b7ec-9081e1c9bf80
+Your Song	Elton John	a606a741-2cff-43e4-bff2-7dc80dc3c78d	https://staging.ms.amanotes.net/song/a606a741-2cff-43e4-bff2-7dc80dc3c78d
+Don't Go Breaking My Heart	Elton John	fb28057c-961c-4ce6-be74-6296abd4a544	https://staging.ms.amanotes.net/song/fb28057c-961c-4ce6-be74-6296abd4a544
+I'm Still Standing	Elton John	fdf27c07-141f-4563-9148-82c719cb442c	https://staging.ms.amanotes.net/song/fdf27c07-141f-4563-9148-82c719cb442c
+Dreams (2004 Remaster)	Fleetwood Mac	38c567f5-e24b-4082-8930-8edd911d62bc	https://staging.ms.amanotes.net/song/38c567f5-e24b-4082-8930-8edd911d62bc
+Bette Davis Eyes	Kim Carnes	4e76b51d-c905-4eb6-9aaf-c51883f16e27	https://staging.ms.amanotes.net/song/4e76b51d-c905-4eb6-9aaf-c51883f16e27
+Like a Virgin	Madonna	45f7a478-2d80-4fb9-91a0-4bd4603b03e3	https://staging.ms.amanotes.net/song/45f7a478-2d80-4fb9-91a0-4bd4603b03e3
+Material Girl	Madonna	5a3baee1-2674-41f2-a90c-da3469ed3e09	https://staging.ms.amanotes.net/song/5a3baee1-2674-41f2-a90c-da3469ed3e09
+Ain't No Mountain High Enough	Marvin Gaye & Tammi Terrell	1ce9a5f6-6941-4383-8ed2-b7737cc3c30e	https://staging.ms.amanotes.net/song/1ce9a5f6-6941-4383-8ed2-b7737cc3c30e
+L-O-V-E	Nat King Cole	66686e81-c7dd-4ed6-8507-69d3277b093b	https://staging.ms.amanotes.net/song/66686e81-c7dd-4ed6-8507-69d3277b093b
+Dilemma	Nelly featuring Kelly Rowland	45b23677-9823-4aaf-a0a2-4f1d19cdbf71	https://staging.ms.amanotes.net/song/45b23677-9823-4aaf-a0a2-4f1d19cdbf71
+Fireflies	Owl City	2ca2582a-39fd-451b-82b9-3b90dc8ac1f7	https://staging.ms.amanotes.net/song/2ca2582a-39fd-451b-82b9-3b90dc8ac1f7
+I'll Be Missing You (Explicit)	Puff Daddy & Faith Evans featuring 112	4187a9de-edf1-49ea-b7f1-feab53a69f16	https://staging.ms.amanotes.net/song/4187a9de-edf1-49ea-b7f1-feab53a69f16
+Super Freak	Rick James	4f93ddeb-f1d8-478b-b376-14b457e460e9	https://staging.ms.amanotes.net/song/4f93ddeb-f1d8-478b-b376-14b457e460e9
+Smooth	Santana featuring Rob Thomas	a4673f9d-1355-401b-854f-d11ffc21b94d	https://staging.ms.amanotes.net/song/a4673f9d-1355-401b-854f-d11ffc21b94d
+Every Breath You Take	The Police	ac702053-3a73-4ca4-8517-c8fe3c34a2a9	https://staging.ms.amanotes.net/song/ac702053-3a73-4ca4-8517-c8fe3c34a2a9
+Un-Break My Heart	Toni Braxton	25c522a4-0ee0-4ad0-a245-73792a1c59d9	https://staging.ms.amanotes.net/song/25c522a4-0ee0-4ad0-a245-73792a1c59d9
+The Greatest Love of All 	Whitney Houston	6022affa-16c2-46c7-94da-cd6fb5fa9040	https://staging.ms.amanotes.net/song/6022affa-16c2-46c7-94da-cd6fb5fa9040
